@@ -1,0 +1,6 @@
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas.Core\bin\Debug\SistemaVendas.Core.dll
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas.Core\bin\Debug\SistemaVendas.Core.pdb
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas.Core\obj\Debug\SistemaVendas.Core.csproj.CoreCompileInputs.cache
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas.Core\obj\Debug\SistemaVendas.Core.dll
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas.Core\obj\Debug\SistemaVendas.Core.pdb
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas.Core\obj\Debug\SistemaVendas.Core.csprojAssemblyReference.cache

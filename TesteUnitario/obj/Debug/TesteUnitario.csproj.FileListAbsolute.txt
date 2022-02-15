@@ -1,0 +1,36 @@
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\TesteUnitario.dll.config
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\TesteUnitario.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\TesteUnitario.pdb
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\SistemaVendas.Core.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\EntityFramework.dll
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\SistemaVendas.Core.pdb
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\SistemaVendas.Core.dll.config
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Teste\SistemaVendas\TesteUnitario\bin\Debug\EntityFramework.xml
+D:\Teste\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.csprojAssemblyReference.cache
+D:\Teste\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.csproj.CoreCompileInputs.cache
+D:\Teste\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.csproj.CopyComplete
+D:\Teste\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.dll
+D:\Teste\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.pdb
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\TesteUnitario.dll.config
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\TesteUnitario.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\TesteUnitario.pdb
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\SistemaVendas.Core.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\SistemaVendas.Core.pdb
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.csproj.CoreCompileInputs.cache
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.csproj.CopyComplete
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.dll
+D:\Teste\Nova pasta\SistemaVendas\TesteUnitario\obj\Debug\TesteUnitario.pdb

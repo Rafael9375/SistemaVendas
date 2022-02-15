@@ -1,0 +1,11 @@
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Web.csprojAssemblyReference.cache
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Web.csproj.CoreCompileInputs.cache
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\bin\SistemaVendas.dll.config
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\bin\SistemaVendas.dll
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\bin\SistemaVendas.pdb
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\bin\AjaxControlToolkit.dll
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\bin\SistemaVendas.Core.dll
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\bin\SistemaVendas.Core.pdb
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Web.csproj.CopyComplete
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.dll
+D:\Teste\Nova pasta\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
